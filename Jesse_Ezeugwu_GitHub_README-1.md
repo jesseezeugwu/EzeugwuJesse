@@ -1,10 +1,5 @@
 # Hi, I\'m Jesse Ezeugwu! [APPLIED MACHINE LEARNING & DATA ANALYTICS](https://github.com/jesseezeugwu) \| [Data Scientist](https://www.linkedin.com/in/jesse-ezeugwu-03829431a?)
 
-I\'m a Statistics and Data Science graduate interested in using data
-analysis, statistical reasoning, and machine learning to solve
-real-world problems. I work with Python and R for data preparation,
-exploratory data analysis, and predictive modeling, and I\'m continuing
-to develop my skills in networking and cybersecurity.
 
 ## 👨‍💻 Data Science Projects
 
@@ -28,7 +23,7 @@ to develop my skills in networking and cybersecurity.
 
 ## 🧾 Certifications
 
--   New Horizons --- Introduction to Python Programming;Introduction to Machine Learning;Machine Learning with R;Data Science(Certificate of
+-   New Horizons --- Introduction to Python Programming; Introduction to Machine Learning; Machine Learning with R; Data Science(Certificates of
     Completion)
 -   Google Cloud Computing Foundations: Cloud Computing Fundamentals
 -   Google Cloud Computing Foundations: Data, ML, and AI in Google Cloud
