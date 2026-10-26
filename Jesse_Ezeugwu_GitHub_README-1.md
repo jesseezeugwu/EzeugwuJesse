@@ -16,7 +16,7 @@
     and 12 variables, including age, BMI, exercise, sleep, smoking, and
     sugar intake. Implemented and compared K-Nearest Neighbors (KNN),
     Support Vector Machine (SVM), Logistic Regression, and Naïve Bayes
-    using classification evaluation metrics\
+    using classification evaluation metrics
     
 
 ## 🧾 Certifications
