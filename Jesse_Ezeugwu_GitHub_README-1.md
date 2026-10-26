@@ -1,4 +1,4 @@
-# Hi, I\'m Jesse Ezeugwu! [APPLIED MACHINE LEARNING & DATA ANALYTICS](https://github.com/jesseezeugwu) \| [Data Scientist](https://www.linkedin.com/in/jesse-ezeugwu-03829431a?)
+# Hi, I\'m Jesse Ezeugwu! [APPLIED MACHINE LEARNING & DATA ANALYTICS](https://github.com/jesseezeugwu) \, [Data Scientist](https://www.linkedin.com/in/jesse-ezeugwu-03829431a?)
 
 
 ## 👨‍💻 Data Science Projects
