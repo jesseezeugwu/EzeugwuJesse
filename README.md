@@ -21,7 +21,7 @@
 
 ## 🧾 Certifications
 
--   New Horizons -- Introduction to Python Programming; Introduction to Machine Learning; Machine Learning with R; Data Science(Certificates of
+-   New Horizons --- Introduction to Python Programming; Introduction to Machine Learning; Machine Learning with R; Data Science(Certificates of
     Completion)
 -   Google Cloud Computing Foundations: Cloud Computing Fundamentals
 -   Google Cloud Computing Foundations: Data, ML, and AI in Google Cloud
