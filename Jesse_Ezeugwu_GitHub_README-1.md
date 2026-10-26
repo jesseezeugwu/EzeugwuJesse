@@ -9,14 +9,14 @@
     between health indicators and diabetes, and train Logistic
     Regression and Random Forest classifiers. The dataset contained
     100,000 records initially; 3,854 duplicate rows were removed before
-    analysis.\
+    analysis\
 -   **Predictive Health Risk Modeling Using Machine Learning and
     Lifestyle Data**\
     Developed a classification project using a dataset of 5,000 records
     and 12 variables, including age, BMI, exercise, sleep, smoking, and
     sugar intake. Implemented and compared K-Nearest Neighbors (KNN),
     Support Vector Machine (SVM), Logistic Regression, and Naïve Bayes
-    using classification evaluation metrics.\
+    using classification evaluation metrics\
     
 
 ## 🧾 Certifications
@@ -25,8 +25,7 @@
     Completion)
 -   Google Cloud Computing Foundations: Cloud Computing Fundamentals
 -   Google Cloud Computing Foundations: Data, ML, and AI in Google Cloud
--   TryHackMe --- Cybersecurity challenge certificate and practical
-    virtual-machine exercises
+
 
 
 ## 🤝 Connect with Me
