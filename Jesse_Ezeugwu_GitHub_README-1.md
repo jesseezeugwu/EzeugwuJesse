@@ -4,7 +4,7 @@
 ## 👨‍💻 Data Science Projects
 
 -   [**Diabetes Prediction Using Machine Learning**\](https://github.com/jesseezeugwu/Diabetes-Prediction-ML)
--   [APPLIED MACHINE LEARNING & DATA ANALYTICS](https://github.com/jesseezeugwu)
+-   [**Diabetes Prediction Using Machine Learning**](https://github.com/jesseezeugwu/Diabetes-Prediction-ML)
     Used Python, pandas, NumPy, scikit-learn, Matplotlib, and Seaborn to
     clean and explore a diabetes dataset, investigate relationships
     between health indicators and diabetes, and train Logistic
